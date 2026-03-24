@@ -5,7 +5,7 @@
     <aside>
       <p>Copyright © {{ new Date().getFullYear() }} - All right reserved</p>
     </aside>
-    <nav class="flex gap-2">
+    <!-- <nav class="flex gap-2">
       <a>
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -45,6 +45,6 @@
           ></path>
         </svg>
       </a>
-    </nav>
+    </nav> -->
   </footer>
 </template>

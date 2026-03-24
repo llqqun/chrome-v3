@@ -5,11 +5,7 @@
     <div class="hero">
       <div class="hero-content text-center">
         <div class="max-w-md">
-          <h1>Welcome!</h1>
-          <p>
-            Unlock productivity and streamline your workflow with our SaaS
-            Chrome extension platform.
-          </p>
+          <h1>工具箱</h1>
 
           <div class="flex gap-2 justify-center mb-4">
             <UButton
